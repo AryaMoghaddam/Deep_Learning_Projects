@@ -1,2 +1,2 @@
-# Cat_Picture_predictor
-This Machine Learning project was done as part of the Deep learning Ai course on Logistic Regression and Nural Networks.
+# Deep Learning Projects
+Each of the files in this repository is a Jupyter Notebook project done as a part of Deep Learning Specialization courses offered by Deep learning AI.
